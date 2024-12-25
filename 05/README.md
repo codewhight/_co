@@ -41,4 +41,4 @@ Computer 參考<a href="https://www.youtube.com/watch?v=xHh2GdJl4Cs&list=PLu6SHD
 <a href="https://github.com/codewhight/_co/blob/master/05/Computer.hdl" target="_blank">Computer.hdl
 </a>
 
-![](Computer.jpg)
+
