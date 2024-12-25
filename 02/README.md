@@ -20,3 +20,6 @@ ALU
 
 # 作業詳情
 
+<a href="https://github.com/codewhight/_co/blob/master/02/HalfAdder.hdl" target="_blank">HalfAdder</a>
+
+ ![](HalfAdder.jpg)
