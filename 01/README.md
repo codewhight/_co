@@ -61,7 +61,7 @@ NOT16、AND16、OR16、Mux16、OR8Way、Mux4Way16、Mux8Way16、DMux4Way、DMux8
 
  <a href="https://github.com/codewhight/_co/blob/master/01/Or8Way.hdl" target="_blank">Or8Way</a>
 
- ![](Or8Way.jpg)
+ ![](OR8Way.jpg)
 
  <a href="https://github.com/codewhight/_co/blob/master/01/Mux4Way16.hdl" target="_blank">Mux4Way16</a>
 
