@@ -32,4 +32,4 @@ fill : 先自己嘗試用C語言 再改寫成asm 不會的地方再參考解答 
 
 <a href="https://github.com/codewhight/_co/blob/master/04/fill/Fill.asm" target="_blank">Fill.asm</a>
 
-<a href="<a href="https://github.com/codewhight/_co/blob/master/04/mult/mult.c" target="_blank">C語言程式碼</a>
+<a href="https://github.com/codewhight/_co/blob/master/04/mult/mult.c" target="_blank">C語言程式碼</a>
