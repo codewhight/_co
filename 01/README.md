@@ -18,7 +18,8 @@ NOT16、AND16、OR16、Mux16、OR8Way、Mux4Way16、Mux8Way16、DMux4Way、DMux8
 
 # 作業詳情
 
-<a href="https://www.nand2tetris.org/" target="_blank">From Nand to Tetris</a>
-<img src="Not.jpg"  width="300">
+<a href="" target="_blank">Not</a>
+
+ ![](NOT.jpg)
 
 
