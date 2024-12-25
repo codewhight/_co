@@ -12,6 +12,10 @@ RAM512、RAM4K、RAM16K、PC
 
 程式碼的部分獨立完成 電路圖有不會的部分參考網路資料
 
+先透過chatgpt大致了解 Bit、Register、RAM8、RAM64、RAM512、RAM4K、RAM16K 的功能和設計原理，畫出電路圖後，再進行習題的練習。
+
+<a href="https://chatgpt.com/share/676c4028-3dbc-8012-bed0-9ed2d9b6501b" target="_blank">與chagpt的對話</a>
+
 #　參考資料
 
 <a href="https://www.nand2tetris.org/" target="_blank">From Nand to Tetris</a>
