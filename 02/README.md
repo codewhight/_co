@@ -16,10 +16,26 @@ ALU
 
 <a href="https://www.nand2tetris.org/" target="_blank">From Nand to Tetris</a>
 
-<a href="" target="_blank">老師上課教材</a>
+<a href="https://github.com/codewhight/_co/blob/master/02/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202021-10-07%20%E4%B8%8A%E5%8D%889.51.16.png" target="_blank">老師上課教材</a>
 
 # 作業詳情
 
 <a href="https://github.com/codewhight/_co/blob/master/02/HalfAdder.hdl" target="_blank">HalfAdder</a>
 
  ![](HalfAdder.jpg)
+
+ <a href="https://github.com/codewhight/_co/blob/master/02/FullAdder.hdl" target="_blank">FullfAdder</a>
+
+ ![](FullAdder.jpg)
+
+ <a href="https://github.com/codewhight/_co/blob/master/02/Add16r.hdl" target="_blank">Add16</a>
+
+ ![](Add16.jpg)
+
+<a href="https://github.com/codewhight/_co/blob/master/02/Inc16.hdl" target="_blank">Inc16</a>
+
+ ![](Inc16.jpg)
+
+ <a href="https://github.com/codewhight/_co/blob/master/02/ALU.hdl" target="_blank">ALU</a>
+
+ ![](ALU.jpg)
