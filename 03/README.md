@@ -50,4 +50,8 @@ RAM512、RAM4K、RAM16K、PC
 
  ![](a/PC.jpg)
 
+p.s.
+有使用chatgpt協助理解PC
+<a href="https://chatgpt.com/share/676c2819-5964-8012-a0dd-72ac6a2ce6c3" target="_blank">與chatgpt的對話</a>
+
  
