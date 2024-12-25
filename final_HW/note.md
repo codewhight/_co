@@ -43,7 +43,7 @@
 
 這一章節對我來說難度很高，我基本上都是依照網路上的教學完成習題
 
-習題詳情可到<a href="https://github.com/codewhight/_co/edit/master/05/README.md" target="_blank">此頁面查看</a>
+習題詳情可到<a href="https://github.com/codewhight/_co/blob/master/05/README.md" target="_blank">此頁面查看</a>
 
 
 
