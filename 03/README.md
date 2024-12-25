@@ -30,10 +30,6 @@ RAM512、RAM4K、RAM16K、PC
 
  ![](a/RAM8.jpg)
 
- <a href="https://github.com/codewhight/_co/blob/master/03/a/RAM16.hdl" target="_blank">RAM16</a>
-
- ![](a/RAM16.jpg)
-
  <a href="https://github.com/codewhight/_co/blob/master/03/a/RAM64.hdl" target="_blank">RAM64</a>
 
  ![](a/RAM64.jpg)
@@ -44,7 +40,7 @@ RAM512、RAM4K、RAM16K、PC
 
   <a href="https://github.com/codewhight/_co/blob/master/03/b/RAM4K.hdl" target="_blank">RAM4K</a>
 
- ![](b/4K.jpg)
+ ![](b/RAM4K.jpg)
 
   <a href="https://github.com/codewhight/_co/blob/master/03/b/RAM16K.hdl" target="_blank">RAM16K</a>
 
