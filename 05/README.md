@@ -9,7 +9,7 @@ CPU
 Ｍemory Computer
 
 # 關於作業
-作業獨立完成 有不懂的地方參考網路資料
+基本上參考網路上影片的教學，理解程度相對較低
 
 CPU : 參考<a href="https://www.youtube.com/watch?v=CBeVn-RSavk&list=PLT4mIxZjQO1rTavJ5zelv_gr0rR7lkAwm&index=7&t=2999s" target="_blank">這個影片</a>  以及 <a href="https://www.nand2tetris.org/" target="_blank">From Nand to Tetris</a>協助完成
 
