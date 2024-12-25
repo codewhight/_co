@@ -73,10 +73,10 @@ NOT16、AND16、OR16、Mux16、OR8Way、Mux4Way16、Mux8Way16、DMux4Way、DMux8
 
  <a href="https://github.com/codewhight/_co/blob/master/01/DMux4Way16.hdl" target="_blank">DMux4Way16</a>
 
- ![](DMux4Way16.jpg)
+ ![](DMux4Way.jpg)
 
  <a href="https://github.com/codewhight/_co/blob/master/01/DMux8Way16.hdl" target="_blank">DMux8Way16</a>
 
- ![](DMux8Way16.jpg)
+ ![](DMux8Way.jpg)
 
  
