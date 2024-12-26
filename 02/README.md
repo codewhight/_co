@@ -14,7 +14,7 @@ ALU
 
 ALU的部分有使用chatgpt協助理解(運作方式仍有點不太懂
 
-#　參考資料
+# 參考資料
 
 <a href="https://www.nand2tetris.org/" target="_blank">From Nand to Tetris</a>
 
